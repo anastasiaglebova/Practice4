@@ -32,7 +32,7 @@ fun main(args: Array<String>) {
         }
         return true
     }
-    val number = 999
+    val number = 100
     print("Простые числа: ")
     for (i in 2 .. number step 1)
     {
